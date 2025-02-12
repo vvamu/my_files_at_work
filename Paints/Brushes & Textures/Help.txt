@@ -1,0 +1,15 @@
+Ч Easy Paint Tool SAI | vk.com/painttoolsai Ч
+
+„тобы добавить дополнительные кисти и текстуры в Paint Tool SAI 2.0, запустите программу потом закройте. ƒалее перейдите в папку Ђsettingsї, который находитс€ по такому пути:
+
+C:\Users\»м€ѕользовател€\Documents\SYSTEMAX Software Development\SAIv2\settings
+
+ѕосле скопируйте с заменой папки с готовыми формами кистей и текстуры в соответствующие папки:
+Х Ђblotmapї Ч дл€ текстурных форм кистей;
+Х Ђbristleї Ч дл€ новых форм кистей;
+Х Ђbrushtexї Ч дл€ текстурных кистей;
+Х Ђpapertexї Ч дл€ дополнительных текстур в свойствах сло€.
+
+ѕримечание: папки Ђblotmapї и Ђbristleї наход€тс€ в папке Ђbrushfomї.
+
+Ч Easy Paint Tool SAI | vk.com/painttoolsai Ч
